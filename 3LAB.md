@@ -1,3 +1,3 @@
 # Лабораторная работа №3
 
-## Функциональное тестирование сайта  [HotForex] (https://www.hotforex.com/)
+## Функциональное тестирование сайта  [HotForex](https://www.hotforex.com/).
