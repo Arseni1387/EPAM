@@ -1,7 +1,0 @@
-D:\3 КУРС\епам\7лаб\Net\Aircompany\bin\Debug\Aircompany.exe.config
-D:\3 КУРС\епам\7лаб\Net\Aircompany\bin\Debug\Aircompany.exe
-D:\3 КУРС\епам\7лаб\Net\Aircompany\bin\Debug\Aircompany.pdb
-D:\3 КУРС\епам\7лаб\Net\Aircompany\obj\Debug\Aircompany.csprojAssemblyReference.cache
-D:\3 КУРС\епам\7лаб\Net\Aircompany\obj\Debug\Aircompany.csproj.CoreCompileInputs.cache
-D:\3 КУРС\епам\7лаб\Net\Aircompany\obj\Debug\Aircompany.exe
-D:\3 КУРС\епам\7лаб\Net\Aircompany\obj\Debug\Aircompany.pdb
