@@ -13,8 +13,8 @@ namespace Lab9DealTests.PageObject
 
 
 
-        private readonly By txtLogin = By.XPath("/html/body/skilling-root/div/div/div/div/login/div/div[1]/div[3]/email-password-form/div/div[2]/mdl-textfield[1]/div/input");
-        private readonly By txtPassword = By.XPath("/html/body/skilling-root/div/div/div/div/login/div/div[1]/div[3]/email-password-form/div/div[2]/mdl-textfield[2]/div/input");
+        private readonly By txtLogin = By.XPath("//*[@id='mat-input-0']");
+        private readonly By txtPassword = By.XPath("//*[@id='mat-input-1']");
         private readonly By btnEnter = By.XPath("//*[@id='continue']");
 
         public LoginPage EnterLogin(string login)
